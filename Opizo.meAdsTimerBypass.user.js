@@ -10,8 +10,8 @@
 // @downloadURL    https://raw.github.com/nimaarek/SkipOpizoAdsTimer/master/Opizo.meAdsTimerBypass.user.js
 // @updateURL	   https://raw.github.com/nimaarek/SkipOpizoAdsTimer/master/Opizo.meAdsTimerBypass.user.js
 //
-// @match		   *://*.opizo.me/*
-// @run-at		   document-body
+// @match          *://*.opizo.me/*
+// @run-at         document-body
 // @grant          none
 // @unwrap
 //
