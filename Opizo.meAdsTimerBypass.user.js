@@ -1,21 +1,20 @@
 // ==UserScript==
+//
 // @name          	opizo.me - Skip the advertising countdown timer.
 // @description     Bypassing the https://opizo.me countdown timer by override a local variable called 'count', This variable is the time-intervals counter.
 //
 // @author			AliReza Chegini Aka. nimaarek <priv8@tuta.io>
+// @version         1.0
 // @namespace       https://github.com/nimaarek
-// @downloadURL		https://raw.github.com/sepehr/userscript-SCRIPT/master/SCRIPT.user.js
+//
+// @downloadURL		https://raw.github.com/nimaarek/SkipOpizoAdsTimer/master/Opizo.meAdsTimerBypass.user.js
+// @updateURL		https://raw.github.com/nimaarek/SkipOpizoAdsTimer/master/Opizo.meAdsTimerBypass.user.js
 //
 // @match			*://*.opizo.me/*
-//
-// @version         1.0
-// @updateURL		https://raw.github.com/sepehr/userscript-SCRIPT/master/SCRIPT.user.js
-//
 // @run-at			document-body
-//
 // @grant none
-//
 // @unwrap
+//
 // ==/UserScript==
 
 // gobal variable
