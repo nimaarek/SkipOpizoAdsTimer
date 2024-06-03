@@ -6,6 +6,7 @@
 // @author         AliReza Chegini Aka. nimaarek <priv8@tuta.io>
 // @version        1.0
 // @namespace      https://github.com/nimaarek
+// @license        MIT
 //
 // @downloadURL    https://raw.github.com/nimaarek/SkipOpizoAdsTimer/master/Opizo.meAdsTimerBypass.user.js
 // @updateURL	   https://raw.github.com/nimaarek/SkipOpizoAdsTimer/master/Opizo.meAdsTimerBypass.user.js
